@@ -1,0 +1,20 @@
+.header {
+  .contact-details > * {
+    margin-right: 1rem;
+  }
+  .hero {
+    margin: 1rem 0;
+  }
+  #menu {
+    display: flex;
+    justify-content: center;
+    color: red;
+    ul {
+      margin-block-start: 0px;
+    }
+    li {
+      list-style-type: none;
+      margin-left: 1rem;
+    }
+  }
+}
