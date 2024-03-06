@@ -1,5 +1,5 @@
-function CV(): JSX.Element {
-  return <div>This is the CV page</div>;
+function Portfolio(): JSX.Element {
+  return <div>This is the Portfolio page</div>;
 }
 
-export default CV;
+export default Portfolio;

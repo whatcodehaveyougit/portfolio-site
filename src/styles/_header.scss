@@ -1,9 +1,11 @@
 .header {
+  text-align: center;
+
   .contact-details > * {
     margin-right: 1rem;
   }
   .hero {
-    margin: 1rem 0;
+    margin-top: 1rem;
   }
   #menu {
     display: flex;
@@ -15,6 +17,10 @@
     li {
       list-style-type: none;
       margin-left: 1rem;
+    }
+    li:hover {
+      cursor: pointer;
+      text-decoration: underline;
     }
   }
 }

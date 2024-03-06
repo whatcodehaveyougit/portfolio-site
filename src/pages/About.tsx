@@ -1,5 +1,9 @@
 function About(): JSX.Element {
-  return <div>This is the about page</div>;
+  return (
+    <div>
+      <p>In 2016 I graduated from Edinburgh </p>
+    </div>
+  );
 }
 
 export default About;
