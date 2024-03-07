@@ -1,0 +1,120 @@
+{
+  "jobs": [
+    {
+      "title": "Frontend Developer",
+      "company": "Vertu Motors",
+      "companyWebsite": "https://www.vertumotors.com/",
+      "contract": "Full Time",
+      "timeSpan": "August 2023 - Feb 2024",
+      "technologiesUsed": ["React", "Typescript", "Angular", "Redux"],
+      "mainResponsibilities": [
+        "Collaborated with QA Tester to implement e2e tests locally which had never been done.",
+        "Built and deployed major new feature for ‘Service Booking App’, (React)",
+        "Built new major feature on ‘Sell My Car’ app (Angular)"
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Selfcity",
+      "companyWebsite": "https://www.selfcity.fr/",
+      "contract": "Contractor",
+      "timeSpan": "Oct 2022 - May 2023",
+      "technologiesUsed": ["React", "Typescript", "Unit Testing", "Speaking French"],
+      "mainResponsibilities": [
+        "Created by myself front-end of a Google Calendar like Agenda App Prototype. Collaborated with CTO (who created the back-end) to implement API Calls.",
+        "Created by myself the front-end of a timetable application for the technicians to use in Production called 'Volt'. Again collaborated with CTO to implement API Calls.",
+        "Wrote clean, high quality SASS / HTML / JSX on 'Volt'.",
+        "Worked independently and created work to do consistently after finishing all my work."
+      ]
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Red 61",
+      "companyWebsite": "https://www.red61.com/",
+      "contract": "Full Time",
+      "timeSpan": "October 2020 - April 2022 ",
+      "technologiesUsed": ["Php", "Cypress Testing", "Docker", "JS/jQuery"],
+      "mainResponsibilities": [
+        "Primary developer building the Red61 Wordpress Solution which provides clients with a website they can customise to suit their ticketing sales needs.",
+        "Worked closely with the UX Designer and CS team to add features, fix bugs and bring Mobile first designs to life.",
+        "Took responsibility for releases."
+      ]
+    },
+    {
+      "title": "Tech Support Engineer",
+      "company": "Criton",
+      "companyWebsite": "https://play.google.com/store/apps/details?id=com.informationapps.criton.enterpriseApp.demo&hl=en_GB&gl=US",
+      "contract": "Temporary Contract",
+      "timeSpan": "May 2020 - October 2020",
+      "technologiesUsed": ["React", "Firebase", "App Certification"],
+      "mainResponsibilities": [
+        "Built a tool in React to automate processes within the organisation.",
+        "Created documentation to improve communication and formalise good practice within our team.",
+        "Setup Firebase projects, certified & deployed apps to production."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "7 Hills Ceilidh Band Website",
+      "tags": ["Wordpress", "SEO", "API Integrations"],
+      "link": "https://www.7hillsceilidh.com/",
+      "imageName": "7hills",
+      "description": "Built a website for my Ceilidh Band which uses a Wordpress theme with a child theme for customizations. The website has a booking form and all the information for client. It is also integrated with Google Analytics and Google Search Console.",
+      "deliverables": [
+        "Optimized site to rank well on Google for the term 'ceilidh band edinburgh' using a combination of technical SEO and link building",
+        "Maintain hosting and any issues which may arise from site",
+        "Integrated reviews api to pull from Facebook and Mailgun to ensure emails arrive in our inbox"
+      ]
+    },
+    {
+      "title": "Earthquake Tracker App",
+      "tags": ["VueJs", "VueX", "API Integrations", "Cypress Testing", "Docker"],
+      "link": "https://earthquake-map-project.netlify.app/",
+      "imageName": "earthquakeTracker",
+      "description": "Built a web app using VueJs which tracks earthquakes around the world. The app uses the USGS API to pull in data and display it on a map. The app also has a feature to filter the data by magnitude and date.",
+      "deliverables": [
+        "Completed the MVP as specified in the task brief in 4 days despite having limited VueJs experience",
+        "Used VueX to manage state and Cypress for end to end testing",
+        "Created utils file with helper functions to keep code DRY"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Patrick Dobson",
+      "relation": "Colleague",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "I worked with Sigurd at Vertu Motors.  He is highly skilled and fastidious in his work and, when given a task that was outside of his expertise, quickly got himself up to speed with the processes and technology issues to a point where he was quickly able to mentor other team members.   He is very definitely a team player who is willing to take on any tasks that come his way and to help and support other members of the team. He took on the responsibility for certain tricky tasks that other team members were unwilling to. He quickly moved from being 'one of the team' in these tasks to being the lead developer.  He is active in meetings, asking useful questions and 'leaving no stone unturned' which makes understanding the issues easier for everyone.  I would highly recommend Sigurd as a valuable member of any team."
+    },
+    {
+      "name": "Justyna Smaga",
+      "relation": "Colleague",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "I had the pleasure of working closely with Sigurd as part of our front-end development team, and I can confidently say that he is an invaluable asset to any project or team.  Sigurd’s dedication, expertise, and positive attitude consistently shone through in our collaborations. His excellent communication skills and willingness to go above and beyond to ensure project success made him a joy to work with. Sigurd’s passion for front-end development is evident in the high-quality work he consistently delivers, and I have no doubt that he will continue to excel in his future endeavors."
+    },
+    {
+      "name": "Andrew Swain",
+      "relation": "Delivery Manager",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "Sigurd worked as a Developer in a team I was the Delivery Manager for a Vertu Motors.  During his time in the team he was always engaging and putting forward suggestions for improving how the team could work which was always appreciated. On several occasions he stepped into a facilitator role voluntarily if I was busy.  He also took on a key role in looking to improve how we handled testing within several teams the company.  Overall Sigurd was great to work with and drove many improvements in his time with Vertu."
+    },
+    {
+      "name": "Matthieu Jabbour",
+      "relation": "CTO",
+      "date": "May 2023",
+      "company": "Selfcity",
+      "kindWords": "I hired Sigurd as a front-end developer at Selfcity. He's a quick learner, a fact clearly demonstrated when he became a major contributor to two of our main applications in a few weeks, despite initially having only basic knowledge of React. He's always striving for self-improvement and eager to learn from the experiences of others. Sigurd is a very balanced individual and he has an amazing team spirit!."
+    },
+    {
+      "name": "Dwayne Pascal",
+      "relation": "CTO",
+      "date": "Oct 2020",
+      "company": "Criton",
+      "kindWords": "Sigurd joined Criton to help us adapt to increased demand and jumped right in from day 1. He was highly engaged and energetic with the team, proactively reaching out to seek help when needed and provide input where he was knowledgeable. He helped identify areas to go beyond his role and develop tooling to simplify and automate our processes showing strong technical skill in the process. A high value contributor on many levels."
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import sigurdData from '../data/jobs.json';
+import sigurdData from '../data/data.json';
 import Job from '../components/Job';
 
 function CV(): JSX.Element {
