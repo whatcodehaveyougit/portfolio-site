@@ -2,6 +2,7 @@ interface ProjectProps {
   project: {
     title: string;
     link: string;
+    gitHubLink: string;
     imageName: string;
     tags: string[];
     description: string;
@@ -10,9 +11,7 @@ interface ProjectProps {
 }
 
 function Project({ project }: ProjectProps): JSX.Element {
-  // console.log(project);
-  const { title, link, imageName, tags, description, deliverables } = project;
-  console.log('imageName', imageName);
+  const { title, link, gitHubLink, imageName, tags, description, deliverables } = project;
   const imgUrl = new URL(`../images/${imageName}.png`, import.meta.url).href;
 
   return (
@@ -42,6 +41,16 @@ function Project({ project }: ProjectProps): JSX.Element {
                 <li key={index}>{deliverable}</li>
               ))}
             </ul>
+            <div className="flex justify-end">
+              <a className="border border-white p-2 mr-4 rounded" target="_blank" href={link} rel="noreferrer">
+                View Site
+              </a>
+              {gitHubLink && (
+                <a className="border border-white p-2 rounded" target="_blank" href={gitHubLink} rel="noreferrer">
+                  View Code
+                </a>
+              )}
+            </div>
           </div>
         </div>
       </a>

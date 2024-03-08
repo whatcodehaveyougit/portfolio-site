@@ -13,7 +13,7 @@ function Header(): JSX.Element {
         </div>
       </div>
       <nav>
-        <ul id="menu">
+        <ul id="menu" className="space-x-12 text-xl">
           <li>
             <Link to="">Home</Link>
           </li>

@@ -26,7 +26,7 @@ function Job({ job }: JobProps): JSX.Element {
         <span>{contract}</span>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-5 gap-3 m-4">
-        <ul className="list-disc">
+        <ul className="list-disc flex flex-col justify-between">
           {technologiesUsed.map((technology, index) => (
             <li key={index}>{technology}</li>
           ))}
