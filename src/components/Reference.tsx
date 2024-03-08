@@ -2,7 +2,7 @@ interface ReferenceProps {
   reference: {
     name: string;
     date: string;
-    company: number;
+    company: string;
     relation: string;
     kindWords: string;
   };
