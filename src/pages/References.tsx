@@ -1,13 +1,12 @@
-import sigurdData from '../data/data.json';
+import references from '../data/references.json';
 import Reference from '../components/Reference';
 
 function References(): JSX.Element {
-  console.log(sigurdData.references);
   return (
     <div>
       <div>
-        <h3 className="text-xl font-semibold mb-2">Testimonials</h3>
-        {sigurdData.references.map((reference, index) => (
+        <h1 className="text-3xl font-semibold mb-2">Testimonials</h1>
+        {references.references.map((reference, index) => (
           <div key={index}>
             <Reference reference={reference} />
           </div>

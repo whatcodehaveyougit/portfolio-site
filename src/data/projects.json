@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "title": "7 Hills Ceilidh Band Website",
+      "tags": ["Wordpress", "SEO", "API Integrations"],
+      "link": "https://www.7hillsceilidh.com/",
+      "gitHubLink": null,
+      "imageName": "7hills",
+      "description": "Built a website for my Ceilidh Band which uses a Wordpress theme with a child theme for customizations. The website has a booking form and all the information for client. It is also integrated with Google Analytics and Google Search Console.",
+      "deliverables": [
+        "Optimized site to rank well on Google for the term 'ceilidh band edinburgh' using a combination of technical SEO and link building",
+        "Maintain hosting and any issues which may arise from site",
+        "Integrated reviews api to pull from Facebook and Mailgun to ensure emails arrive in our inbox"
+      ]
+    },
+    {
+      "title": "Earthquake Tracker App",
+      "tags": ["VueJs", "VueX", "API Integrations", "Cypress Testing", "Docker"],
+      "link": "https://earthquake-map-project.netlify.app/",
+      "gitHubLink": "https://github.com/whatcodehaveyougit/earthquakes-map",
+      "imageName": "earthquakeTracker",
+      "description": "Built a web app using VueJs which tracks earthquakes around the world. The app uses the USGS API to pull in data and display it on a map. The app also has a feature to filter the data by magnitude and date.",
+      "deliverables": [
+        "Completed the MVP as specified in the task brief in 4 days despite having limited VueJs experience",
+        "Used VueX to manage state and Cypress for end to end testing",
+        "Created utils file with helper functions to keep code DRY"
+      ]
+    },
+    {
+      "title": "Liz Mackie Pilates",
+      "tags": ["Wordpress", "Client Communication"],
+      "link": "https://lismackiepilates.com/",
+      "gitHubLink": null,
+      "imageName": "lizMackie",
+      "description": "Communicated with client to establish needs, kept stream of communication open throughout the process to ensure that she was satisfied with the website.",
+      "deliverables": [
+        "Ensured all the logos she provided were used in the website",
+        "Kept website simple so that is was easy for my client to maintain / update",
+        "Ensured that the website was mobile responsive"
+      ]
+    },
+    {
+      "title": "Crown Clothing Learning Project",
+      "tags": ["React", "Firebase", "Typescript", "Styled Components"],
+      "link": "https://spontaneous-sherbet-3a95f1.netlify.app/",
+      "gitHubLink": "https://github.com/whatcodehaveyougit/crown-clothing-project",
+      "imageName": "crownClothing",
+      "description": "A project I made in order to upskill in the aforementioned technologies, part of the Zero to Mastery Web Dev Course on Udemy.",
+      "deliverables": [
+        "Followed tutorials in order to build the app and ensure I understood every line of code",
+        "Integrated Firebase for user authentication and database storage",
+        "State management with Redux"
+      ]
+    }
+  ]
+}

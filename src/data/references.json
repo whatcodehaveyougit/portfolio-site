@@ -1,0 +1,39 @@
+{
+  "references": [
+    {
+      "name": "Patrick Dobson",
+      "relation": "Colleague",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "I worked with Sigurd at Vertu Motors.  He is highly skilled and fastidious in his work and, when given a task that was outside of his expertise, quickly got himself up to speed with the processes and technology issues to a point where he was quickly able to mentor other team members.   He is very definitely a team player who is willing to take on any tasks that come his way and to help and support other members of the team. He took on the responsibility for certain tricky tasks that other team members were unwilling to. He quickly moved from being 'one of the team' in these tasks to being the lead developer.  He is active in meetings, asking useful questions and 'leaving no stone unturned' which makes understanding the issues easier for everyone.  I would highly recommend Sigurd as a valuable member of any team."
+    },
+    {
+      "name": "Justyna Smaga",
+      "relation": "Colleague",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "I had the pleasure of working closely with Sigurd as part of our front-end development team, and I can confidently say that he is an invaluable asset to any project or team.  Sigurd’s dedication, expertise, and positive attitude consistently shone through in our collaborations. His excellent communication skills and willingness to go above and beyond to ensure project success made him a joy to work with. Sigurd’s passion for front-end development is evident in the high-quality work he consistently delivers, and I have no doubt that he will continue to excel in his future endeavors."
+    },
+    {
+      "name": "Andrew Swain",
+      "relation": "Delivery Manager",
+      "date": "Feb 2024",
+      "company": "Vertu Motors",
+      "kindWords": "Sigurd worked as a Developer in a team I was the Delivery Manager for a Vertu Motors.  During his time in the team he was always engaging and putting forward suggestions for improving how the team could work which was always appreciated. On several occasions he stepped into a facilitator role voluntarily if I was busy.  He also took on a key role in looking to improve how we handled testing within several teams the company.  Overall Sigurd was great to work with and drove many improvements in his time with Vertu."
+    },
+    {
+      "name": "Matthieu Jabbour",
+      "relation": "CTO",
+      "date": "May 2023",
+      "company": "Selfcity",
+      "kindWords": "I hired Sigurd as a front-end developer at Selfcity. He's a quick learner, a fact clearly demonstrated when he became a major contributor to two of our main applications in a few weeks, despite initially having only basic knowledge of React. He's always striving for self-improvement and eager to learn from the experiences of others. Sigurd is a very balanced individual and he has an amazing team spirit!."
+    },
+    {
+      "name": "Dwayne Pascal",
+      "relation": "CTO",
+      "date": "Oct 2020",
+      "company": "Criton",
+      "kindWords": "Sigurd joined Criton to help us adapt to increased demand and jumped right in from day 1. He was highly engaged and energetic with the team, proactively reaching out to seek help when needed and provide input where he was knowledgeable. He helped identify areas to go beyond his role and develop tooling to simplify and automate our processes showing strong technical skill in the process. A high value contributor on many levels."
+    }
+  ]
+}

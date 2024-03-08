@@ -8,23 +8,23 @@ function Home(): JSX.Element {
       </p>
       <section className="grid grid-cols-3 my-4">
         <div>
-          <h3 className="font-semibold">Primary:</h3>
+          <h3 className="font-semibold text-xl">Primary:</h3>
           <ul>
             <li>HTML</li>
             <li>CSS / SASS / SCSS</li>
             <li>Javascript</li>
-            <li>Typescript</li>
-            <li>React</li>
-            <li>Redux</li>
-            <li>WordPress</li>
             <li>Git</li>
-            <li>Docker</li>
-            <li>API Integration (using Postman)</li>
+            <li>React</li>
+            <li>Typescript</li>
             <li>End to End Testing</li>
+            <li>WordPress</li>
+            <li>Docker</li>
+            <li>Redux</li>
+            <li>API Integration (using Postman)</li>
           </ul>
         </div>
         <div>
-          <h3 className="font-semibold">Secondary:</h3>
+          <h3 className="font-semibold text-xl">Secondary:</h3>
           <ul>
             <li>Angular</li>
             <li>Vue</li>
@@ -36,14 +36,14 @@ function Home(): JSX.Element {
           </ul>
         </div>
         <div>
-          <h3 className="font-semibold">Strong Awareness of:</h3>
+          <h3 className="font-semibold text-xl">Strong Awareness of:</h3>
           <ul>
             <li>SEO</li>
             <li>Responsive Design / Mobile First</li>
             <li>Accessibility</li>
             <li>Agile</li>
             <li>Good Practices</li>
-            <li>CSS Frameworks</li>
+            <li>Different CSS Frameworks</li>
           </ul>
         </div>
       </section>
