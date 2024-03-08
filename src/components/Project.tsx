@@ -2,7 +2,7 @@ interface ProjectProps {
   project: {
     title: string;
     link: string;
-    gitHubLink: string;
+    gitHubLink: string | null;
     imageName: string;
     tags: string[];
     description: string;

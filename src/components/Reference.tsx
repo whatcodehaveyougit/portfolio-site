@@ -1,15 +1,18 @@
 interface ReferenceProps {
-  name: string;
-  company: number;
-  relation: string;
-  reference: string;
+  reference: {
+    name: string;
+    date: string;
+    company: number;
+    relation: string;
+    kindWords: string;
+  };
 }
 
 function Reference({ reference }: ReferenceProps): JSX.Element {
-  const { name, company, relation, kindWords, date } = reference;
+  const { name, date, company, relation, kindWords } = reference;
   return (
     <div className="border border-gray-300 rounded-md shadow-sm p-5 mb-5">
-      <i>"{kindWords}"</i>
+      <i>&quot;{kindWords}&quot;</i>
       <div className="flex justify-end">
         <h2>{name}</h2>
         <span className="ml-2 mr-2">|</span>
