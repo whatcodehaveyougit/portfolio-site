@@ -2,9 +2,9 @@ function Home(): JSX.Element {
   return (
     <div className="home">
       <p>
-        I started out by building WordPress websites on a freelance basis in 2018 and have been working in software
-        development as a web developer since 2020. I have worked in several companies with teams of different sizes on a
-        full time basis and as a contractor too. My skillset is as follows.
+        My career started out by building WordPress websites on a freelance basis in 2018 and have been working in
+        software development as a web developer since 2020. I have worked in several companies with teams of different
+        sizes on a full time basis and as a contractor. My skillset is as follows.
       </p>
       <section className="grid grid-cols-3 my-4">
         <div>

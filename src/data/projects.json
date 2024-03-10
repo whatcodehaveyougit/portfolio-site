@@ -6,11 +6,11 @@
       "link": "https://www.7hillsceilidh.com/",
       "gitHubLink": null,
       "imageName": "7hills",
-      "description": "Built a website for my Ceilidh Band which uses a Wordpress theme with a child theme for customizations. The website has a booking form and all the information for client. It is also integrated with Google Analytics and Google Search Console.",
+      "description": "Built a website for a Ceilidh Band which uses a Wordpress theme with a child theme for customizations. The website has a booking form and all the information for client. It is also integrated with Google Analytics and Google Search Console.",
       "deliverables": [
         "Optimized site to rank well on Google for the term 'ceilidh band edinburgh' using a combination of technical SEO and link building",
         "Maintain hosting and any issues which may arise from site",
-        "Integrated reviews api to pull from Facebook and Mailgun to ensure emails arrive in our inbox"
+        "Integrated reviews api to pull from Facebook and Mailgun to ensure emails arrived in the inbox"
       ]
     },
     {
@@ -45,9 +45,9 @@
       "link": "https://spontaneous-sherbet-3a95f1.netlify.app/",
       "gitHubLink": "https://github.com/whatcodehaveyougit/crown-clothing-project",
       "imageName": "crownClothing",
-      "description": "A project I made in order to upskill in the aforementioned technologies, part of the Zero to Mastery Web Dev Course on Udemy.",
+      "description": "This project was made in order to upskill in the aforementioned technologies, part of the Zero to Mastery Web Dev Course on Udemy.",
       "deliverables": [
-        "Followed tutorials in order to build the app and ensure I understood every line of code",
+        "Followed tutorials in order to build the app and to ensure understanding of every line of code",
         "Integrated Firebase for user authentication and database storage",
         "State management with Redux"
       ]
