@@ -11,7 +11,6 @@ interface JobProps {
 }
 
 function Job({ job }: JobProps): JSX.Element {
-  console.log(job);
   const { title, company, companyWebsite, contract, timeSpan, technologiesUsed, mainResponsibilities } = job;
   return (
     <div className="job">
