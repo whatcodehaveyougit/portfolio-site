@@ -16,7 +16,7 @@ function Job({ job }: JobProps): JSX.Element {
     <div className="job">
       <div className="flex flex-col md:flex-row md:items-center">
         <div>
-          <span className="font-semibold mr-2 text-lg">{title} - </span>
+          <span className="font-semibold mr-2 text-lg w-full block sm:inline">{title} - </span>
           <a className="mr-4 text-lg" href={companyWebsite}>
             {company}
           </a>
