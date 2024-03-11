@@ -13,13 +13,16 @@ function Reference({ reference }: ReferenceProps): JSX.Element {
   return (
     <div className="border border-gray-300 rounded-md shadow-sm p-5 mb-5">
       <i>&quot;{kindWords}&quot;</i>
-      <div className="flex justify-end">
-        <h2>{name}</h2>
-        <span className="ml-2 mr-2">|</span>
-        <p>{company}</p>
-        <span className="ml-2 mr-2">|</span>
-        <p>{relation}</p>
-        <span className="ml-2 mr-2">|</span>
+      <div className="grid grid-cols-2 sm:flex sm:justify-end mt-2 sm:mt-1">
+        <h2>
+          {name} <span className="hidden sm:inline ml-2 mr-2">|</span>
+        </h2>
+        <p>
+          {company} <span className="hidden sm:inline ml-2 mr-2">|</span>
+        </p>
+        <p>
+          {relation} <span className="hidden sm:inline ml-2 mr-2">|</span>
+        </p>
         <p>{date}</p>
       </div>
     </div>

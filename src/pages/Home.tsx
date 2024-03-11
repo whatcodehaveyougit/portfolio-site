@@ -1,15 +1,15 @@
 function Home(): JSX.Element {
   return (
     <div className="home">
-      <p>
+      <p className="text-center sm:text-left">
         My career started out by building WordPress websites on a freelance basis in 2018 and have been working in
         software development as a web developer since 2020. I have worked in several companies with teams of different
         sizes on a full time basis and as a contractor. My skillset is as follows.
       </p>
-      <section className="grid grid-cols-3 my-4">
-        <div>
+      <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
+        <div className="text-center sm:text-left">
           <h3 className="font-semibold text-xl">Primary:</h3>
-          <ul>
+          <ul className="list-none sm:list-disc sm:ml-6">
             <li>HTML</li>
             <li>CSS / SASS / SCSS</li>
             <li>Javascript</li>
@@ -23,9 +23,9 @@ function Home(): JSX.Element {
             <li>API Integration (using Postman)</li>
           </ul>
         </div>
-        <div>
+        <div className="text-center sm:text-left">
           <h3 className="font-semibold text-xl">Secondary:</h3>
-          <ul>
+          <ul className="list-none sm:list-disc sm:ml-6">
             <li>Angular</li>
             <li>Vue</li>
             <li>Unit Testing</li>
@@ -35,9 +35,9 @@ function Home(): JSX.Element {
             <li>App Certification</li>
           </ul>
         </div>
-        <div>
+        <div className="text-center sm:text-left">
           <h3 className="font-semibold text-xl">Strong Awareness of:</h3>
-          <ul>
+          <ul className="list-none sm:list-disc sm:ml-6">
             <li>SEO</li>
             <li>Responsive Design / Mobile First</li>
             <li>Accessibility</li>

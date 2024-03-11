@@ -13,7 +13,10 @@ function Header(): JSX.Element {
         </div>
       </div>
       <nav>
-        <ul id="menu" className="space-x-12 text-xl">
+        <ul
+          id="menu"
+          className="flex flex-wrap justify-center lg:justify-end space-x-4 lg:space-x-12 text-base lg:text-xl"
+        >
           <li>
             <Link to="">Home</Link>
           </li>

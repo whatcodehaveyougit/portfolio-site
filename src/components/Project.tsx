@@ -23,13 +23,11 @@ function Project({ project }: ProjectProps): JSX.Element {
         >
           <div className="absolute inset-0 bg-black opacity-80 z-2"></div> {/* Black overlay */}
           <div className="relative z-10 text-white">
-            {' '}
-            {/* Set text color to white */}
             <div className="flex flex-col md:flex-row md:items-center">
               <p className="font-semibold mr-2 text-2xl">{title}</p>
               <div className="flex flex-wrap">
                 {tags.map((tag) => (
-                  <span key={tag} className="border border-white m-1 p-2 rounded-xl whitespace-nowrap">
+                  <span key={tag} className="border border-white m-1 p-2 rounded whitespace-nowrap">
                     {tag}
                   </span>
                 ))}
