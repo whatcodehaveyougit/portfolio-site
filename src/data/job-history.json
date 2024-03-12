@@ -8,8 +8,8 @@
       "timeSpan": "August 2023 - Feb 2024",
       "technologiesUsed": ["React", "Typescript", "Angular", "Redux"],
       "mainResponsibilities": [
-        "Collaborated with QA Tester to implement e2e tests locally which had never been done.",
-        "Built and deployed major new feature for ‘Service Booking App’, (React).",
+        "Collaborated with QA Tester to implement end-to-end tests locally which had never been done in organisation before.",
+        "Built and deployed major new feature for ‘Service Booking App’ (React).",
         "Built new major feature on ‘Sell My Car’ app (Angular)."
       ]
     },
@@ -21,9 +21,9 @@
       "timeSpan": "Oct 2022 - May 2023",
       "technologiesUsed": ["React", "Typescript", "Unit Testing", "Fluent in French"],
       "mainResponsibilities": [
-        "Created front-end of a Google Calendar like Agenda App Prototype. Collaborated with CTO (who created the back-end) to implement API Calls.",
+        "Created front-end of a Google Calendar like Agenda App which was used in Production. Collaborated with CTO (who created the back-end) to implement API Calls.",
         "Created the front-end of a timetable application for the technicians to use in Production called 'Volt'. Again collaborated with CTO to implement API Calls.",
-        "Wrote clean, high quality SASS / HTML / JSX on 'Volt'."
+        "Wrote clean, high quality SASS / HTML / JSX."
       ]
     },
     {
@@ -34,7 +34,7 @@
       "timeSpan": "October 2020 - April 2022 ",
       "technologiesUsed": ["Php", "Cypress Testing", "Docker", "JS/jQuery"],
       "mainResponsibilities": [
-        "Primary developer building the Red61 Wordpress Solution which provides clients with a website they can customise to suit their ticketing sales needs.",
+        "Primary developer building the Red61 Wordpress Solution which provides clients with a website they can customize to suit their ticketing sales needs.",
         "Worked closely with the UX Designer and CS team to add features, fix bugs and bring Mobile first designs to life.",
         "Took responsibility for releases."
       ]
@@ -47,8 +47,8 @@
       "timeSpan": "May 2020 - October 2020",
       "technologiesUsed": ["React", "Firebase", "App Certification"],
       "mainResponsibilities": [
-        "Built a tool in React to automate processes within the organisation.",
-        "Created documentation to improve communication and formalise good practice within our team.",
+        "Built a tool in React to automate processes within the organization.",
+        "Created documentation to improve communication and formalize good practice within our team.",
         "Setup Firebase projects, certified & deployed apps to production."
       ]
     }
