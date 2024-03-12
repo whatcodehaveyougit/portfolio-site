@@ -34,6 +34,7 @@ function Home(): JSX.Element {
             <li>jQuery</li>
             <li>PHP</li>
             <li>jQuery</li>
+            <li>JAMStack</li>
             <li>App Certification</li>
           </ul>
         </div>
