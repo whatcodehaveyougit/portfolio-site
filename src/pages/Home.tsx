@@ -4,8 +4,8 @@ function Home(): JSX.Element {
       <p className="text-center sm:text-left">
         My career started out by building WordPress websites on a freelance basis in 2018, this lead onto me completing
         the CodeClan Edinburgh 16 week bootcamp in 2020 and I have been working in software development ever since. To
-        date I have worked in several companies with teams of different sizes on a full time basis and as a contractor.
-        My skillset is as follows.
+        date I have worked in several companies with teams of different sizes on a full time basis and as a contractor
+        as front end developer. My skillset is as follows.
       </p>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
         <div className="text-center sm:text-left">
@@ -17,7 +17,7 @@ function Home(): JSX.Element {
             <li>Git</li>
             <li>React</li>
             <li>Typescript</li>
-            <li>End to End Testing</li>
+            <li>End to End Testing (Cypress)</li>
             <li>WordPress</li>
             <li>Docker</li>
             <li>Redux</li>
