@@ -14,6 +14,7 @@ function Home(): JSX.Element {
             <li>HTML</li>
             <li>CSS / SASS / SCSS</li>
             <li>Javascript</li>
+            <li>Writing Documentation</li>
             <li>Git</li>
             <li>React</li>
             <li>Typescript</li>
