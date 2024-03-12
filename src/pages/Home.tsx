@@ -2,9 +2,10 @@ function Home(): JSX.Element {
   return (
     <div className="home">
       <p className="text-center sm:text-left">
-        My career started out by building WordPress websites on a freelance basis in 2018 and have been working in
-        software development as a web developer since 2020. I have worked in several companies with teams of different
-        sizes on a full time basis and as a contractor. My skillset is as follows.
+        My career started out by building WordPress websites on a freelance basis in 2018, this lead onto me completing
+        the CodeClan Edinburgh 16 week bootcamp in 2020 and I have been working in software development ever since. To
+        date I have worked in several companies with teams of different sizes on a full time basis and as a contractor.
+        My skillset is as follows.
       </p>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
         <div className="text-center sm:text-left">
