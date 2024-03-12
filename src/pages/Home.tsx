@@ -12,7 +12,7 @@ function Home(): JSX.Element {
           <h3 className="font-semibold text-xl">Primary:</h3>
           <ul className="list-none sm:list-disc sm:ml-6">
             <li>HTML</li>
-            <li>CSS / SASS / SCSS</li>
+            <li>CSS / SASS</li>
             <li>Javascript</li>
             <li>Writing Documentation</li>
             <li>Git</li>
