@@ -1,6 +1,4 @@
 function Home(): JSX.Element {
-  const imgUrl = new URL(`../images/linkedin.png`, import.meta.url).href;
-
   return (
     <div className="home">
       <p className="text-center sm:text-left">
@@ -8,7 +6,6 @@ function Home(): JSX.Element {
         software development as a web developer since 2020. I have worked in several companies with teams of different
         sizes on a full time basis and as a contractor. My skillset is as follows.
       </p>
-      <img src={imgUrl} alt="" />
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 my-4">
         <div className="text-center sm:text-left">
           <h3 className="font-semibold text-xl">Primary:</h3>
