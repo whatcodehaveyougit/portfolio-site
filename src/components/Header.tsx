@@ -5,7 +5,7 @@ function Header(): JSX.Element {
     <header className="header">
       <div className="hero">
         <h1 className="text-6xl">SIGURD WATT</h1>
-        <h2 className="text-2xl">SOFTWARE DEVELOPER CONTRACTOR</h2>
+        <h2 className="text-2xl">SOFTWARE DEVELOPER</h2>
         <div className="contact-details flex justify-center items-center text-blue-400 my-3">
           <a href="tel:07724543520" className="md:hidden">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="w-4 h-4 text-gray-500">
